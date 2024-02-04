@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashif khan</h1>
 <h3 align="center">A Data Science Enthusiastic from India</h3>
 
-- 🔭 I’m currently working on **pyton projects**
+- 🔭 I’m currently working on **python projects**
 
 - 💬 Ask me about **NLP, Data Science, Python, Power BI, Data Analytics, Machine Learning, Deep Learning,**
 
